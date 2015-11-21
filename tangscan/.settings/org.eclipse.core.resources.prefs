@@ -1,6 +1,7 @@
 eclipse.preferences.version=1
 encoding//kali/CalcActivationCode.py=utf-8
 encoding//kali/ReplacingNetcat.py=utf-8
+encoding//kali/bh_sshcmd.py=UTF-8
 encoding//kali/tcpproxy.py=utf-8
 encoding//kali/tcpserver.py=utf-8
 encoding//kali/tcpudp.py=utf-8
